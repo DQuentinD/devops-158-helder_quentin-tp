@@ -1,0 +1,6 @@
+venv/
+flask.log
+__pycache__/
+*.pyc
+.pytest_cache/
+Jenkinsfile.bak.broken
